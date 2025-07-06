@@ -14,12 +14,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
 </div>
 
