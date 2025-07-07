@@ -1,5 +1,5 @@
 <h1 align="center">Mario Madersbacher</h1>
-<p align="center">Cybersecurity · Networking · Linux · Python · Automation</p>
+<p align="center">Cybersecurity · Networking · Linux · Python · Go · Automation</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&hide=contribs&theme=github_dark" width="48%" />
@@ -15,6 +15,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
