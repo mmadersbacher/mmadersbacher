@@ -34,4 +34,9 @@
   <a href="https://github.com/mmadersbacher">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
   </a>
+  <!--
+  <a href="mailto:DEINE.EMAIL@NICHT-MEHR-SICHTBAR.COM">
+    <img src="https://img.shields.io/badge/-Mail-grey?style=flat&logo=gmail&logoColor=white">
+  </a>
+  -->
 </div>
