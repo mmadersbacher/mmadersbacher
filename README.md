@@ -30,8 +30,8 @@
 
 ---
 
-**Security und Networking Enthusiast mit Fokus auf Automation, Linux und professionelle Tools.  
-Open Source, Klartext, Qualität. Keine “Hello World”-Projekte.**
+**Fokus auf nachhaltige, skalierbare Lösungen und sauberen Code.  
+Praxisorientierte Projekte statt Demos. Interesse an Security, Netzwerken und moderner IT-Infrastruktur.**
 
 ---
 
