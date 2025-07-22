@@ -1,5 +1,5 @@
 <h1 align="center">Mario Madersbacher</h1>
-<p align="center"><b>Cybersecurity · Networking · Linux · Python · Go · Automation</b></p>
+<p align="center"><b>Cybersecurity · Networking · Linu · Python · Go · Automation</b></p>
 
 <div align="center">
 
