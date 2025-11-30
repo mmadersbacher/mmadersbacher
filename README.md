@@ -1,10 +1,11 @@
 <h1 align="center">Mario Madersbacher</h1>
-<p align="center"><b>Cybersecurity · Networking · Linux · Python · Go · Automation</b></p>
+<p align="center"><b>Cybersecurity · Networking · Linux · Rust · Go · Automation</b></p>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&hide=contribs&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmadersbacher&layout=compact&theme=github_dark" width="48%" />
+  <!-- Stable Mirror for GitHub Stats -->
+  <img src="https://gh-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&hide=contribs&theme=github_dark" width="48%" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mmadersbacher&layout=compact&theme=github_dark" width="48%" />
 
 </div>
 
@@ -32,24 +33,27 @@
 ---
 
 ## **About Me**
-Highly motivated aspiring Cybersecurity & Networking specialist with a strong focus on practical, real-world tooling rather than theory or demos. I build lean, efficient and scalable tools using modern languages like **Rust**, **Go**, and **Python**, always prioritizing clean architecture and maintainable code.  
+Aspiring Cybersecurity & Networking specialist with a strong focus on building practical, high-performance tooling.  
+I work primarily with **Rust**, **Go**, and **Python**, focusing on scalable, efficient and secure code.  
+My projects emphasize real functionality: network discovery, IoT fingerprinting, automation, and protocol analysis.
 
-Experience includes:
-- Network scanning & reconnaissance tooling  
-- IoT fingerprinting & protocol analysis  
-- Automation scripts and CLI tools  
-- Linux systems, networking, VLANs, routing, and security testing  
+Hands-on experience includes:
+- Network scanning, port scanning & host fingerprinting  
+- IoT protocol analysis (mDNS, SSDP, NetBIOS, DHCP, SNMP, Telnet)  
+- Rust & Go tooling for performance-critical workloads  
+- Python automation & CLI utilities  
+- Linux systems, VLANs, routing & security testing  
 
-Aiming for a career in Cybersecurity, System Engineering, or high-level IT Infrastructure roles.
+Driven by curiosity, clean architecture, and real-world problem solving.
 
 ---
 
 ## **Technical Focus**
-- **Cybersecurity & Network Analysis**  
-- **Linux Systems & Low-Level Networking**  
-- **Rust/Go tooling for high-performance scanning**  
-- **Python automation & scripting**  
-- **Clean, maintainable code & structured problem-solving**
+- **Cybersecurity · Network Analysis · Reconnaissance Tools**  
+- **Linux Systems · Administration · Low-Level Networking**  
+- **Rust/Go Development for High-Performance Scanning**  
+- **Python Automation · CLI Tools**  
+- **Secure, maintainable code · Structured problem solving**
 
 ---
 
@@ -58,4 +62,3 @@ Aiming for a career in Cybersecurity, System Engineering, or high-level IT Infra
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
   </a>
 </div>
-
