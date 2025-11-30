@@ -19,9 +19,10 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -30,8 +31,25 @@
 
 ---
 
-**Fokus auf nachhaltige, skalierbare Lösungen und sauberen Code.  
-Praxisorientierte Projekte statt Demos. Interesse an Security, Netzwerken und moderner IT-Infrastruktur.**
+## **About Me**
+Highly motivated aspiring Cybersecurity & Networking specialist with a strong focus on practical, real-world tooling rather than theory or demos. I build lean, efficient and scalable tools using modern languages like **Rust**, **Go**, and **Python**, always prioritizing clean architecture and maintainable code.  
+
+Experience includes:
+- Network scanning & reconnaissance tooling  
+- IoT fingerprinting & protocol analysis  
+- Automation scripts and CLI tools  
+- Linux systems, networking, VLANs, routing, and security testing  
+
+Aiming for a career in Cybersecurity, System Engineering, or high-level IT Infrastructure roles.
+
+---
+
+## **Technical Focus**
+- **Cybersecurity & Network Analysis**  
+- **Linux Systems & Low-Level Networking**  
+- **Rust/Go tooling for high-performance scanning**  
+- **Python automation & scripting**  
+- **Clean, maintainable code & structured problem-solving**
 
 ---
 
@@ -40,3 +58,4 @@ Praxisorientierte Projekte statt Demos. Interesse an Security, Netzwerken und mo
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
   </a>
 </div>
+
