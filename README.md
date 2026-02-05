@@ -1,12 +1,9 @@
 <h1 align="center">Mario Madersbacher</h1>
-<p align="center"><b>Cybersecurity · Networking · Linux · Rust · Go · Automation</b></p>
+<p align="center"><strong>Cybersecurity · Networking · Linux · Programming</strong></p>
 
 <div align="center">
-
-  <!-- Stable Mirror for GitHub Stats -->
   <img src="https://gh-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&hide=contribs&theme=github_dark" width="48%" />
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mmadersbacher&layout=compact&theme=github_dark" width="48%" />
-
 </div>
 
 <br>
@@ -18,42 +15,39 @@
 <br>
 
 <div align="center">
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-
 </div>
 
 ---
 
-## **About Me**
-Aspiring Cybersecurity & Networking specialist with a strong focus on building practical, high-performance tooling.  
-I work primarily with **Rust**, **Go**, and **Python**, focusing on scalable, efficient and secure code.  
-My projects emphasize real functionality: network discovery, IoT fingerprinting, automation, and protocol analysis.
+## About Me
+I am a **student and aspiring IT professional** with a growing interest in **cybersecurity, networking, and Linux systems**.
 
-Hands-on experience includes:
-- Network scanning, port scanning & host fingerprinting  
-- IoT protocol analysis (mDNS, SSDP, NetBIOS, DHCP, SNMP, Telnet)  
-- Rust & Go tooling for performance-critical workloads  
-- Python automation & CLI utilities  
-- Linux systems, VLANs, routing & security testing  
+I focus on **learning by doing**: building small tools, experimenting with networks, and understanding how systems behave under real conditions.  
+My current work is exploratory and educational, aimed at developing solid fundamentals rather than claiming expertise.
 
-Driven by curiosity, clean architecture, and real-world problem solving.
+I mainly use **Python** for automation and prototyping, while gradually learning **Go** and **Rust** to better understand performance, concurrency, and system-level concepts.
 
 ---
 
-## **Technical Focus**
-- **Cybersecurity · Network Analysis · Reconnaissance Tools**  
-- **Linux Systems · Administration · Low-Level Networking**  
-- **Rust/Go Development for High-Performance Scanning**  
-- **Python Automation · CLI Tools**  
-- **Secure, maintainable code · Structured problem solving**
+## What I Am Currently Learning
+- Networking fundamentals (TCP/IP, DNS, ARP, basic routing)
+- Network scanning and basic host discovery
+- Introductory security concepts and threat awareness
+- Linux system usage and administration basics
+- Writing simple CLI tools and scripts
+
+---
+
+## Approach & Mindset
+- Curious and methodical
+- Focused on understanding fundamentals
+- Willing to learn from mistakes
+- Interested in real-world behavior, not shortcuts
 
 ---
 
