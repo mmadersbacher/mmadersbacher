@@ -4,13 +4,14 @@ Security & networking student from Tyrol, Austria. I build small tools to figure
 
 Rust and Go when it has to be fast, Python when I just want the answer. Linux as a daily driver.
 
-### Selected projects
+<div align="center">
+  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08090c&title_color=ffb000&icon_color=ffb000&text_color=c9d1d9" />
+  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmadersbacher&layout=compact&langs_count=8&hide_border=true&bg_color=08090c&title_color=ffb000&text_color=c9d1d9" />
+</div>
 
-- **[IoTShade](https://github.com/mmadersbacher/IoTShade)** — IoT discovery & fingerprinting in Rust. Passive sniffing plus active ARP/mDNS/SSDP/DHCP/SNMP scans, then fingerprints what it finds.
-- **[AegisNet](https://github.com/mmadersbacher/AegisNet)** — Local network scanner with light deep-packet inspection. Rust backend, React frontend.
-- **[NetReconUltra](https://github.com/mmadersbacher/NetReconUltra)** — Fast network recon in Go with a React dashboard for the results.
-- **[API_Hunter](https://github.com/mmadersbacher/API_Hunter)** — API recon & security scanner, built for bug-bounty work.
-- **[python-hashcracker](https://github.com/mmadersbacher/python-hashcracker-1.0)** — CLI hash cracker for the MD5/SHA family, with dictionary and brute-force modes.
+<div align="center">
+  <img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mmadersbacher&bg_color=08090c&color=ffb000&line=ffb000&point=ffce5e&area=true&hide_border=true" />
+</div>
 
 ### A bit more
 
