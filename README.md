@@ -5,12 +5,14 @@ Security & networking student from Tyrol, Austria. I build small tools to figure
 Rust and Go when it has to be fast, Python when I just want the answer. Linux as a daily driver.
 
 <div align="center">
-  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmadersbacher&show_icons=true&include_all_commits=true&hide_border=true&bg_color=08090c&title_color=ffb000&icon_color=ffb000&text_color=c9d1d9" />
-  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmadersbacher&layout=compact&langs_count=8&hide_border=true&bg_color=08090c&title_color=ffb000&text_color=c9d1d9" />
-</div>
 
-<div align="center">
-  <img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mmadersbacher&bg_color=08090c&color=ffb000&line=ffb000&point=ffce5e&area=true&hide_border=true" />
+<img alt="Profile summary" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmadersbacher&theme=github_dark" />
+
+<img alt="Top languages" height="176" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmadersbacher&theme=github_dark" />
+<img alt="Most-used language" height="176" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmadersbacher&theme=github_dark" />
+
+<img alt="Contribution graph" width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmadersbacher&bg_color=0d1117&color=ffb000&line=ffb000&point=ffce5e&area=true&hide_border=true" />
+
 </div>
 
 ### A bit more
