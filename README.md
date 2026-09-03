@@ -17,6 +17,6 @@ Rust and Go when it has to be fast, Python when I just want the answer. Linux as
 
 ### A bit more
 
-I'm at a business school (HAK) in Austria, but most of my energy goes into security and networking. Along the way I picked up the TryHackMe Junior Penetration Tester cert, a few CTF placements, and some accepted bug-bounty reports.
+I'm at a business school in Austria, but most of my energy goes into security and networking. Along the way I picked up the TryHackMe Junior Penetration Tester cert, a few CTF placements, and some accepted bug-bounty reports.
 
 Right now I'm going deeper into network protocols, reverse engineering, and Rust. More at [mmadersbacher.github.io](https://mmadersbacher.github.io).
