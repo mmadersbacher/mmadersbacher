@@ -1,15 +1,10 @@
-<img src="banner.svg" alt="Mario Madersbacher — security & networking, Austria" width="100%">
+<img src="banner.svg" alt="Mario Madersbacher — Security & Networking, Austria" width="100%">
 
 # Mario Madersbacher
 
 Security & networking, Austria. I build small tools to understand how systems actually behave — network scanners, device fingerprinting, and the occasional thing that pokes at software from the outside. When I can't explain a behavior, I end up writing the tool that shows me.
 
-```console
-$ stack --by speed
-rust · go        # when it has to be fast
-python           # when i just want the answer
-linux            # daily driver
-```
+Rust and Go when it has to be fast, Python when I just want the answer. Linux as a daily driver.
 
 ## Published CVEs
 

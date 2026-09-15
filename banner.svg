@@ -1,29 +1,18 @@
-<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mario Madersbacher — security and networking, Austria">
-  <rect x="0" y="0" width="1200" height="260" rx="16" fill="#0b0e14"/>
-  <rect x="1" y="1" width="1198" height="258" rx="15" fill="none" stroke="#ffb000" stroke-opacity="0.14"/>
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mario Madersbacher — Security and Networking, Austria">
+  <rect x="0" y="0" width="1200" height="240" rx="14" fill="#f4f3ef"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="238.5" rx="13.25" fill="none" stroke="#e4e2db" stroke-width="1.5"/>
 
-  <!-- faint hexdump underlay (decodes to: Mario Madersbacher / security / CVE-2026-90776 / rust go pytho...) -->
-  <g font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace" font-size="15.5" opacity="0.16" transform="translate(560,0)">
-    <text y="52"><tspan fill="#46536a">00000000 </tspan><tspan fill="#ffb000"> 4d 61 72 69 6f 20 4d 61 </tspan><tspan fill="#ffd27a"> |Mario Ma|</tspan></text>
-    <text y="81"><tspan fill="#46536a">00000008 </tspan><tspan fill="#ffb000"> 64 65 72 73 62 61 63 68 </tspan><tspan fill="#ffd27a"> |dersbach|</tspan></text>
-    <text y="110"><tspan fill="#46536a">00000010 </tspan><tspan fill="#ffb000"> 65 72 0a 73 65 63 75 72 </tspan><tspan fill="#ffd27a"> |er.secur|</tspan></text>
-    <text y="139"><tspan fill="#46536a">00000018 </tspan><tspan fill="#ffb000"> 69 74 79 0a 43 56 45 2d </tspan><tspan fill="#ffd27a"> |ity.CVE-|</tspan></text>
-    <text y="168"><tspan fill="#46536a">00000020 </tspan><tspan fill="#ffb000"> 32 30 32 36 2d 39 30 37 </tspan><tspan fill="#ffd27a"> |2026-907|</tspan></text>
-    <text y="197"><tspan fill="#46536a">00000028 </tspan><tspan fill="#ffb000"> 37 36 0a 72 75 73 74 20 </tspan><tspan fill="#ffd27a"> |76.rust |</tspan></text>
-    <text y="226"><tspan fill="#46536a">00000030 </tspan><tspan fill="#ffb000"> 67 6f 20 70 79 74 68 6f </tspan><tspan fill="#ffd27a"> |go pytho|</tspan></text>
-  </g>
+  <!-- accent tick above headline -->
+  <rect x="80" y="70" width="44" height="3" fill="#191a1f"/>
 
-  <!-- editorial spine -->
-  <rect x="56" y="72" width="3" height="112" rx="1.5" fill="#ffb000"/>
+  <!-- name -->
+  <text x="80" y="141" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="54" font-weight="600" letter-spacing="-0.5" fill="#191a1f">Mario Madersbacher</text>
 
-  <!-- handle + terminal cursor -->
-  <text x="82" y="126" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace" font-size="52" font-weight="700" fill="#e8eef5">mmadersbacher</text>
-  <rect x="500" y="98" width="15" height="34" fill="#ffb000" opacity="0.9"/>
+  <!-- subtitle -->
+  <text x="81" y="179" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#71757c">Security &amp; Networking · Austria</text>
 
-  <!-- amber rule -->
-  <rect x="84" y="144" width="300" height="3" rx="1.5" fill="#ffb000" opacity="0.85"/>
-
-  <!-- tagline + subline -->
-  <text x="84" y="181" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace" font-size="19" letter-spacing="1.5" fill="#ffb000">security · networking · offensive tooling</text>
-  <text x="84" y="209" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace" font-size="14.5" fill="#7f8b99">austria · i write the tool that shows me the behavior</text>
+  <!-- discreet right-aligned credentials -->
+  <text x="1120" y="108" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="2.5" fill="#c0bdb5">PUBLISHED CVES</text>
+  <text x="1120" y="136" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90776</text>
+  <text x="1120" y="160" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90492</text>
 </svg>
