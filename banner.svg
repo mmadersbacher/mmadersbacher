@@ -12,7 +12,8 @@
   <text x="81" y="179" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#71757c">Security &amp; Networking · Austria</text>
 
   <!-- discreet right-aligned credentials -->
-  <text x="1120" y="108" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="2.5" fill="#c0bdb5">PUBLISHED CVES</text>
-  <text x="1120" y="136" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90776</text>
-  <text x="1120" y="160" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90492</text>
+  <text x="1120" y="96" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" letter-spacing="2.5" fill="#c0bdb5">PUBLISHED CVES</text>
+  <text x="1120" y="124" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-103043</text>
+  <text x="1120" y="148" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90776</text>
+  <text x="1120" y="172" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="0.3" fill="#9c9990">CVE-2026-90492</text>
 </svg>
